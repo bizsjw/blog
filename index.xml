@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L0ngaev1.net</title>
+    <link>https://bizsjw.github.io/blog/index.xml</link>
+    <description>Recent content on L0ngaev1.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2016 18:01:09 -0500</lastBuildDate>
+    <atom:link href="https://bizsjw.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>post000001</title>
+      <link>https://bizsjw.github.io/blog/post/post000001/</link>
+      <pubDate>Thu, 15 Dec 2016 18:01:09 -0500</pubDate>
+      
+      <guid>https://bizsjw.github.io/blog/post/post000001/</guid>
+      <description>&lt;p&gt;Post One!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
